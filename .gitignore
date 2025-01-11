@@ -55,3 +55,7 @@ train_images.txt
 train_labels.txt
 test_images.txt
 test_labels.txt
+
+test/
+train/
+output/
